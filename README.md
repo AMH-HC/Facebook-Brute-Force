@@ -30,20 +30,20 @@ Once that's all set up:
 # Run
 - Using arguments:
 ```bash
-python app.py -u <USERNAME/ID/EMAIL/PHONE> -p <PASSWORD_LIST_FILENAME> -l <LOG_FILE_NAME>
+python brute-force.py -u <USERNAME/ID/EMAIL/PHONE> -p <PASSWORD_LIST_FILENAME> -l <LOG_FILE_NAME>
 ```
 - To use a single password:
 ```bash
-python app.py -u <USERNAME/ID/EMAIL/PHONE> -sp <PASSWORD> -l <LOG_FILE_NAME>
+python brute-force.py -u <USERNAME/ID/EMAIL/PHONE> -sp <PASSWORD> -l <LOG_FILE_NAME>
 ```
 -> You can ignore the `-l` (log) argument.
 - To get the help message:
 ```bash
-python app.py -h
+python brute-force.py -h
 ```
 - Or you can just run the app and it'll ask you with the inputs:
 ```bash
-python app.py
+python brute-force.py
 ```
 
 
