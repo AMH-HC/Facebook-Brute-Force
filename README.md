@@ -29,6 +29,8 @@ python brute-force.py
 
 
 
+
+
 #AMH Facebook-Brute-Force 
 
 1. passwords-1.txt or passwords-2.txt
