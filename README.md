@@ -33,8 +33,10 @@ AMH FACEBOOK-BRUTE-FORCE 2021
 ================
 Enter choice
 
-1. passwords-1.txt  or 
+1. passwords-1.txt  
    
-   passwords-2.txt
+   passwords-2.txt 
+  
+   passwords-3.txt
 
 2. Hacked => account => username / email or phone number / account Id 
