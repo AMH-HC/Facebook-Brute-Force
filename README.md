@@ -29,4 +29,8 @@ python brute-force.py
 
 
 
-#Facebook-Brute-Force ==> ( Hack => email or phone no, account Id )
+#AMH Facebook-Brute-Force 
+
+1. passwords-1.txt or passwords-2.txt
+
+2. Hacked => account email or phone number / account Id 
