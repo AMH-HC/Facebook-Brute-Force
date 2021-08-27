@@ -22,7 +22,7 @@ First, you'll need to have:
 
 Once that's all set up:
 
-1. Clone this repository ```git clone https://github.com/m-primo/Facebook-Brute-Force```.
+1. Clone this repository ```git clone https://github.com/AMH-HC/Facebook-Brute-Force```.
 2. Go to the cloned directory ```cd Facebook-Brute-Force```.
 3. Install the requirements ```pip install -r primo-pip-reqs.txt```.
 
