@@ -28,8 +28,8 @@ Please copy one by one
 
 9. python brute-force.py
 
-================
-#AMH FACEBOOK-BRUTE-FORCE 2021
+==============
+AMH FACEBOOK-BRUTE-FORCE 2021
 ================
 Enter choice
 
