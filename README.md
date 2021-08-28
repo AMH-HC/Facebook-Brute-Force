@@ -4,7 +4,7 @@
 Please copy one by one
 
 
-1. pkg install python3
+1. pkg install python
 
 
 2. pip install requests
