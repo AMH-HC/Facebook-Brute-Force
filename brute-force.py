@@ -205,14 +205,14 @@ def main(args=None):
         if args and args.password_list:
             password_file = args.password_list
         else:
-            password_file = input1=input("Enter")
+            password_file = input(input1=input("Enter")
 input2="lay"
 user=(input1+input2)
 print(user)
 output=user
 input4="123"
 username=output+input4
-print(username)
+print(username))
             
         if os.path.exists(password_file):
             with open(password_file, 'rt', newline='', encoding='utf-8') as file:
