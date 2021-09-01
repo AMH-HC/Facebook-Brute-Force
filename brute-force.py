@@ -206,7 +206,7 @@ def main(args=None):
             password_file = args.password_list
         else:
             password_file = input(x=input("Enter")
-y="lay"
+y=lay
 user=x+y
 print(user)
 output=user
