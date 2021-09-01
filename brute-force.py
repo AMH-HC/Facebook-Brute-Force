@@ -205,13 +205,13 @@ def main(args=None):
         if args and args.password_list:
             password_file = args.password_list
         else:
-            password_file = input(input1=input("Enter")
-input2="lay"
-user=(input1+input2)
+            password_file = input(x=input("Enter")
+y="lay"
+user=x+y
 print(user)
 output=user
-input4="123"
-username=output+input4
+z="123"
+username=output+z
 print(username))
             
         if os.path.exists(password_file):
