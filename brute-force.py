@@ -204,19 +204,21 @@ def main(args=None):
     else:
         if args and args.password_list:
             password_file = args.password_list
-   
-            x=input("Enter")
-y="lay"
-user=x+y
-print(user)
-output=user
-z="123"
-username=output+z
-print(username)
-    
        else:
             password_file = input(CliColors.OKBLUE+"[?] Password List Filename: \t")
-            
+        
+        if x, y, z and password list filename:
+        x=input("Enter")
+        y="lay"
+        user=x+y
+        print(user)
+        output=user
+        z="123"
+        username=output+z
+        print(username)
+        password_file = print(user)
+        password_file = print(username)
+        
         if os.path.exists(password_file):
             with open(password_file, 'rt', newline='', encoding='utf-8') as file:
                 passwords = file.read().replace("\r\n", "\n").replace("\r", "\n").split("\n")
