@@ -31,9 +31,9 @@ Please copy one by one
 ==============
 AMH FACEBOOK-BRUTE-FORCE 2021
 ================
-Enter choice
+https://github.com/AMH-HC/Facebook-Brute-Force
 
-1. passwords-1.txt  
+1.Wallering16
    
    passwords-2.txt 
   
@@ -41,4 +41,4 @@ Enter choice
 
    passwords-4.txt
 
-2. Hacked => account => username / email or phone number / account Id 
+2. Hacked => account => 14066478111/ https://www.facebook.com/dana.kay.967
